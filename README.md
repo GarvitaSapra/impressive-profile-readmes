@@ -6,7 +6,7 @@ Get inspired to make your GitHub Profile stand out! Check out our gallery of Imp
 ![Issues](https://img.shields.io/github/issues/roypriyanshu02/impressive-profile-readmes?style=for-the-badge)
 ![Contributors](https://img.shields.io/github/contributors/roypriyanshu02/impressive-profile-readmes?style=for-the-badge)
 ![Pull requests](https://img.shields.io/github/issues-pr/roypriyanshu02/impressive-profile-readmes?style=for-the-badge)
-![Visitor](https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Froypriyanshu02.impressive-profile-readmes%2Fbadge&style=for-the-badge)
+<!--ERROR FECTHING VISITORS![Visitor](https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Froypriyanshu02.impressive-profile-readmes%2Fbadge&style=for-the-badge)-->
 
 <a href="https://roypriyanshu02.github.io/impressive-profile-readmes/" align="center">
   <picture>
